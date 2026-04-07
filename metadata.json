@@ -1,0 +1,5 @@
+{
+  "name": "Smart Incentivized E-Waste Collection and Recycling Tracking System",
+  "description": "A full-stack system connecting users, collectors, authorities, and recyclers for efficient e-waste management with an incentive model.",
+  "requestFramePermissions": ["geolocation"]
+}
